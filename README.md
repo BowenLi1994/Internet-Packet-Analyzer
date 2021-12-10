@@ -1,7 +1,7 @@
 # Internet-Packet-Analyzer
 
 ## Purpose
- - 1. Experience with packet analyzing and Internet packet formats.
+1. Experience with packet analyzing and Internet packet formats.
 
 ## Instructions
 1. Type "make" to compile the file
